@@ -1,13 +1,7 @@
-__pycache__/
-*.pyc
-drift_sense_model.pth
-.DS_Store
 dataset/
-*.pth
-*.pt
 __pycache__/
-
-dataset/
+eval_out/
+*.png
+*.jpg
 *.pth
-*.pt
-__pycache__/
+predictions_manifest.csv
